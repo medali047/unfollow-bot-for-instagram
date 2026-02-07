@@ -5,6 +5,9 @@ Go to website folder
 product pages 
 change redirect url to your store link
 
+Tutorials : 
+https://www.youtube.com/@NexaDeveloppers
+
 A high-performance, multi-threaded Instagram automation bot built with C#/.NET 6+, using Selenium WebDriver for Chrome automation with advanced anti-ban features.
 
 📋 Table of Contents
