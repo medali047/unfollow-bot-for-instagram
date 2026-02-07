@@ -1,0 +1,71 @@
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InstagramUnfollowBot.MainForm.resources
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\runtimes\win\native\selenium-manager.exe
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\runtimes\linux\native\selenium-manager
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\runtimes\osx\native\selenium-manager
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.dll
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WebDriver.xml
+C:\Users\Skymil\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\runtimes\win\native\selenium-manager.exe
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\runtimes\linux\native\selenium-manager
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\runtimes\osx\native\selenium-manager
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\WebDriver.dll
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\WebDriver.xml
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\InstagramUnfollowBot.ActivationForm.resources
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\InstagramUnfollowBot.MainForm.resources
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\Nexa IG Unfollow Bot.exe.config
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\Nexa IG Unfollow Bot.exe
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\bin\Debug\Nexa IG Unfollow Bot.pdb
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\Nexa IG Unfollow Bot.exe
+C:\Users\Skymil\Documents\Instagram Unfollow bot\WindowsFormsApp1\obj\Debug\Nexa IG Unfollow Bot.pdb
