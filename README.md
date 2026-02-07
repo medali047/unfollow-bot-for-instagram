@@ -228,4 +228,7 @@ Chrome DevTools Protocol
 Instagram API Guidelines
 
 Note: This tool should be used responsibly and in compliance with Instagram's Terms of Service. Regular users should consider manual management to avoid account restrictions.
-
+Private Updates and Fixes Only for Donator 
+donate even with 1$
+donate link : https://nowpayments.io/donation/medalisaan
+Contact Telegram : @andromix0
