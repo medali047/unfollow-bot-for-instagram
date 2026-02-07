@@ -1,5 +1,9 @@
 Instagram Unfollow Bot - C# / .NET Solution
 Demo ; in website folder there is a full website showing our tool 
+optional :
+Go to website folder 
+product pages 
+change redirect url to your store link
 
 A high-performance, multi-threaded Instagram automation bot built with C#/.NET 6+, using Selenium WebDriver for Chrome automation with advanced anti-ban features.
 
